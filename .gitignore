@@ -45,4 +45,5 @@ app.*.map.json
 
 # ignorar arquivo de configuração da chave
 
-/flutter_chatgpt/lib/core/app_config
+app_config
+lib/core/app_config.dart
