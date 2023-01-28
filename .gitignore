@@ -45,5 +45,4 @@ app.*.map.json
 
 # ignorar arquivo de configuração da chave
 
-app_config
 lib/core/app_config.dart
