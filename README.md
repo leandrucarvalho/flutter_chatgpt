@@ -19,4 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - [Como criar uma versão do ChatGPT em Flutter](https://www.youtube.com/watch?v=kqVkDc2snOc)
 
-Observação: Coloque sua API Key da Open AI no arquivo core/app_config.dart
+Observação: Coloque sua API Key da Open AI no arquivo core/app_config.dart.
+
+Fiz esse projeto acompanhando a aula com o objetivo de aprender e praticar mais sobre o flutter.
